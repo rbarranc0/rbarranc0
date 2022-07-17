@@ -1,5 +1,6 @@
-### Hi there 👋
+![alt text](https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2017/05/alex-shutin-205126.jpg)
 
+Hello there 👋
 <!--
 **RodCodes/RodCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
