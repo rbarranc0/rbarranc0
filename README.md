@@ -1,7 +1,7 @@
 
 
 # Hello there, I'm Rodrigo 👋
-<!-- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
+![This is an image](https://www.publicdomainpictures.net/pictures/230000/nahled/chicago-skyline-at-night-1505924392KrN.jpg) 
 
 ## A few things about me!! 
 - 🔭 I’m currently working on a secret startup 🥳
