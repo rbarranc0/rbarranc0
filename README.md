@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on a secret startup 🥳
 - 🌱 I’m currently learning C++ 
 - 💬 Ask me about my husky 🐶
+- 🐻 I love the cubs(even though they suck)
 - 📫 How to reach me: Barrancorodri10@icloud.com
 - ⚡️ Fun fact: I like to play piano 🎹
 
