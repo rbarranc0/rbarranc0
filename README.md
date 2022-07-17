@@ -1,4 +1,3 @@
-![alt text](https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2017/05/alex-shutin-205126.jpg)
 
 Hello there 👋
 <!--
