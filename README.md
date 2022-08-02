@@ -7,7 +7,7 @@
 </p>
 
 ## A few things about me!! 
-- 🔭 I’m currently working on a secret startup 🥳
+- 🔭 I’m currently working on nothing 😔
 - 🌱 I’m currently learning C++ 
 - 💬 Ask me about my husky 🐶
 - 🐻 I love the cubs(even though they suck)
