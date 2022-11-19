@@ -7,10 +7,9 @@
 </p>
 
 ## A few things about me!! 
-- 🔭 I’m currently working on nothing 😔
-- 🌱 I’m currently learning C++ 
+- 🔭 I’m currently working on thinking of a startup/app idea 📱
+- 🌱 I’m currently learning swift 🍎
 - 💬 Ask me about my husky 🐶
-- 🐻 I love the cubs(even though they suck)
+- 🐻 I love the cubs(even though they suck) 
 - 📫 How to reach me: Barrancorodri10@icloud.com
-- ⚡️ Fun fact: I like to play piano 🎹
-
+- ⚡️ Fun fact: I like to play the guitar 🎸
